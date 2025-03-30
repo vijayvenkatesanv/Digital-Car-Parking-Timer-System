@@ -32,3 +32,5 @@ The circuit is designed and simulated in Proteus to verify its accuracy and effi
 Ensures all logic gates, counters, and multiplexers work as expected in tracking and displaying parking duration.
 
 This system offers a cost-effective and reliable method for monitoring parking duration using only digital logic components, eliminating the need for microcontrollers.
+
+![WhatsApp Image 2025-03-30 at 14 04 23_0b6c4a50](https://github.com/user-attachments/assets/89f298cd-9092-4bb4-8901-5cbc075f3a40)
